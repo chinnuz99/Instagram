@@ -1,0 +1,44 @@
+.bk{
+    background-color:#f00e65 ;
+}
+.head{
+    font-family: satisfy;
+   
+    color: white;
+
+}
+#uname{
+    width: 400px;
+    height: 50px;
+    
+}
+#pwd{
+  width: 400px;
+  height: 50px;
+
+}
+#log{
+    width: 400px;
+    height: 50px;
+
+}
+.bot{
+    color: white;
+}
+.int{
+    margin-left: 20px;
+}
+.end{
+    width: 400px;
+  height: 50%;
+  margin: 10px auto;
+  border: 1px solid #e6e6e6;
+  padding: 20px 50px;
+  background-color: #f00e65;
+}
+.footer{
+    text-align: center;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+}  
